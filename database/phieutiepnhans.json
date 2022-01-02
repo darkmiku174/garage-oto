@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "61c15454439cef8a0f16906e"
+  },
+  "MoTa": "this car is dirty",
+  "NgayTaoPhieu": "21/2/2019",
+  "KhachHang": {
+    "$oid": "61c15315439cef8a0f169064"
+  },
+  "NhanVien": {
+    "$oid": "61c154c8439cef8a0f169077"
+  },
+  "TrangThai": true,
+  "XeSuaChua": {
+    "$oid": "61c1529e439cef8a0f169054"
+  },
+  "ChiTietSuaChuaDV": [
+    {
+      "DichVu": {
+        "$oid": "61c158cb439cef8a0f1690ae"
+      }
+    }
+  ],
+  "ChiTietSuaChuaPT": [
+    {
+      "PhuTung": {
+        "$oid": "61c155a2439cef8a0f169088"
+      },
+      "SoLuong": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61d174549743622fa0437ac4"
+  },
+  "MoTa": "không có",
+  "NgayTaoPhieu": "02/01/2022",
+  "KhachHang": {
+    "$oid": "61c15315439cef8a0f169064"
+  },
+  "NhanVien": {
+    "$oid": "61c154c8439cef8a0f169077"
+  },
+  "TrangThai": true,
+  "XeSuaChua": {
+    "$oid": "61c1529e439cef8a0f169054"
+  },
+  "ChiTietSuaChuaDV": [
+    {
+      "_id": {
+        "$oid": "61cae41f94f1ac59259ebe3a"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "61cae41f94f1ac59259eb002"
+      }
+    }
+  ],
+  "ChiTietSuaChuaPT": [
+    {
+      "_id": {
+        "$oid": "61d174549743622fa0437ac7"
+      },
+      "PhuTung": {
+        "$oid": "61c153a2539ce88a0f169188"
+      },
+      "SoLuong": 6
+    }
+  ]
+}]

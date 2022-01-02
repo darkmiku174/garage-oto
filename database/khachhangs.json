@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "61c15315439cef8a0f169064"
+  },
+  "TenKH": "Nguyễn Văn B",
+  "DiaChi": "quan 10, TPHCM",
+  "SDT": "0875544873",
+  "XeKhachHang": [
+    {
+      "$oid": "61c1529e439cef8a0f169054"
+    },
+    {
+      "$oid": "61cece0d58492767936c5806"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61ceb0aa58492767936c57d4"
+  },
+  "TenKH": "Nguyễn Văn A",
+  "DiaChi": "quan 10, TPHCM",
+  "SDT": "0875544873",
+  "XeKhachHang": [
+    {
+      "$oid": "61c1529e439cef8a0f169054"
+    }
+  ]
+}]

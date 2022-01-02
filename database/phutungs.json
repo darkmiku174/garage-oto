@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "61c153a2539ce88a0f169188"
+  },
+  "TenPT": "Đèn xe",
+  "GiaPT": 400000,
+  "TinhTrang": true,
+  "LoaiXe": {
+    "$oid": "61bc7d428fe0030df8b29a20"
+  }
+},{
+  "_id": {
+    "$oid": "61cc32b105036345ec309662"
+  },
+  "TenPT": "Lưỡi xới",
+  "GiaPT": 3445,
+  "TinhTrang": true,
+  "LoaiXe": {
+    "$oid": "61bc7d428fe0030df8b29a21"
+  }
+},{
+  "_id": {
+    "$oid": "61d165720f7331c733690200"
+  },
+  "TenPT": "Cửa xe",
+  "GiaPT": 800000,
+  "TinhTrang": true,
+  "LoaiXe": {
+    "$oid": "61bc7d428fe0030df8b29a20"
+  }
+}]

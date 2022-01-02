@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "61c157b2439cef8a0f1690a2"
+  },
+  "NgayTaoBaoCao": "21/6/2021",
+  "DoanhThu": 500000,
+  "DanhSachHoaDon": [
+    {
+      "HoaDon": {
+        "$oid": "61c15715439cef8a0f16909a"
+      }
+    }
+  ]
+}]

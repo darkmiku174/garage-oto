@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "61c154c8439cef8a0f169077"
+  },
+  "TenNV": "Nguyễn Văn C",
+  "DiaChi": "quan tan binh, tphcm",
+  "SDT": "085267696",
+  "BoPhan": {
+    "$oid": "61c1552f439cef8a0f16907a"
+  }
+},{
+  "_id": {
+    "$oid": "61ceb1dd58492767936c57eb"
+  },
+  "TenNV": "Nguyễn Văn B",
+  "DiaChi": "quan tan binh, tphcm",
+  "SDT": "085267696",
+  "BoPhan": {
+    "$oid": "61c1552f439cef8a0f16907a"
+  }
+}]

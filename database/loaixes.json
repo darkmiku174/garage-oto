@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "61bc7d428fe0030df8b29a20"
+  },
+  "TenLoaiXe": "Huyndai",
+  "SoCho": 4,
+  "TrongTai": 5
+},{
+  "_id": {
+    "$oid": "61bc7d428fe0030df8b29a21"
+  },
+  "TenLoaiXe": "SUV",
+  "SoCho": 4,
+  "TrongTai": 5
+}]

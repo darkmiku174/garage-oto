@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "61c15715439cef8a0f16909a"
+  },
+  "NgayLap": "21/5/2021",
+  "TongTien": 400000,
+  "PhieuTiepNhan": {
+    "$oid": "61c15454439cef8a0f16906e"
+  }
+}]

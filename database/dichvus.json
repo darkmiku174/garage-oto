@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "61cae41f94f1ac59259ebe3a"
+  },
+  "TenDV": "Sửa xe",
+  "GiaDV": 80000,
+  "TinhTrang": false
+},{
+  "_id": {
+    "$oid": "61cae41f94f1ac59259eb001"
+  },
+  "TenDV": "Rửa xe",
+  "GiaDV": 80000,
+  "TinhTrang": false
+},{
+  "_id": {
+    "$oid": "61cae41f94f1ac59259eb002"
+  },
+  "TenDV": "Sơn xe",
+  "GiaDV": 80000,
+  "TinhTrang": false
+}]
